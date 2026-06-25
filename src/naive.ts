@@ -1,6 +1,7 @@
 import {
   // create naive ui
   create,
+  // component
   NA,
   NAvatar,
   NBadge,
@@ -12,7 +13,6 @@ import {
   NForm,
   NFormItem,
   NFormItemRow,
-  // component
   NH1,
   NH2,
   NH3,
